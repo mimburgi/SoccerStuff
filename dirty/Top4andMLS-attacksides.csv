@@ -1,0 +1,103 @@
+﻿R,Team,Left Side,Middle of the pitch,Right Side,League
+1,Tottenham,35%,29%,36%,PL
+2,Burnley,42%,27%,31%,PL
+3,Manchester City,41%,27%,33%,PL
+4,Chelsea,39%,26%,35%,PL
+5,Watford,38%,26%,35%,PL
+6,Liverpool,37%,26%,37%,PL
+7,Aston Villa,39%,25%,36%,PL
+8,Southampton,42%,24%,34%,PL
+9,Newcastle United,40%,24%,36%,PL
+10,Arsenal,38%,24%,38%,PL
+11,Crystal Palace,45%,23%,32%,PL
+12,Bournemouth,43%,23%,34%,PL
+13,West Ham,42%,23%,35%,PL
+14,Manchester United,42%,23%,35%,PL
+15,Brighton,39%,23%,38%,PL
+16,Everton,37%,23%,40%,PL
+17,Leicester,36%,23%,40%,PL
+18,Norwich,41%,22%,37%,PL
+19,Wolverhampton Wanderers,37%,21%,42%,PL
+20,Sheffield United,39%,19%,42%,PL
+1,Los Angeles FC,33%,34%,32%,MLS
+2,Portland Timbers,33%,31%,36%,MLS
+3,New York City FC,38%,30%,32%,MLS
+4,LA Galaxy,34%,30%,37%,MLS
+5,Atlanta United,36%,29%,35%,MLS
+6,Colorado Rapids,33%,28%,39%,MLS
+7,Minnesota United,30%,28%,42%,MLS
+8,DC United,38%,27%,35%,MLS
+9,Orlando City,36%,27%,37%,MLS
+10,Toronto FC,35%,27%,38%,MLS
+11,Houston Dynamo,40%,26%,34%,MLS
+12,Sporting Kansas City,39%,26%,35%,MLS
+13,Real Salt Lake,37%,26%,36%,MLS
+14,Philadelphia Union,36%,26%,38%,MLS
+15,San Jose Earthquakes,35%,26%,40%,MLS
+16,Columbus Crew,34%,26%,39%,MLS
+17,New England Revolution,34%,26%,39%,MLS
+18,Chicago Fire,40%,25%,34%,MLS
+19,FC Cincinnati,40%,25%,35%,MLS
+20,FC Dallas,35%,25%,40%,MLS
+21,Vancouver Whitecaps,40%,24%,36%,MLS
+22,New York Red Bulls,35%,24%,41%,MLS
+23,Seattle Sounders FC,42%,23%,35%,MLS
+24,Montreal Impact,36%,21%,42%,MLS
+1,Verona,43%,23%,33%,Serie A
+2,Napoli,40%,26%,34%,Serie A
+3,Torino,39%,27%,35%,Serie A
+4,Fiorentina,39%,25%,36%,Serie A
+5,Lazio,39%,30%,31%,Serie A
+6,Lecce,39%,25%,36%,Serie A
+7,AC Milan,38%,27%,35%,Serie A
+8,Sassuolo,38%,29%,34%,Serie A
+9,Inter,37%,28%,35%,Serie A
+10,Udinese,37%,26%,37%,Serie A
+11,Atalanta,37%,24%,39%,Serie A
+12,SPAL 2013,37%,25%,39%,Serie A
+13,Bologna,36%,25%,39%,Serie A
+14,Cagliari,36%,26%,39%,Serie A
+15,Parma Calcio 1913,36%,24%,39%,Serie A
+16,Juventus,35%,28%,37%,Serie A
+17,Genoa,35%,27%,38%,Serie A
+18,Roma,33%,30%,37%,Serie A
+19,Sampdoria,32%,29%,39%,Serie A
+20,Brescia,31%,24%,45%,Serie A
+1,Paderborn,46%,22%,33%,Bundesliga
+2,Union Berlin,40%,24%,36%,Bundesliga
+3,Borussia Dortmund,39%,21%,40%,Bundesliga
+4,Eintracht Frankfurt,39%,26%,35%,Bundesliga
+5,Bayern Munich,38%,26%,37%,Bundesliga
+6,Augsburg,38%,23%,39%,Bundesliga
+7,Borussia M.Gladbach,37%,26%,37%,Bundesliga
+8,Hertha Berlin,36%,26%,37%,Bundesliga
+9,Freiburg,36%,26%,38%,Bundesliga
+10,FC Koln,36%,28%,36%,Bundesliga
+11,Mainz 05,36%,29%,35%,Bundesliga
+12,Wolfsburg,35%,25%,40%,Bundesliga
+13,Schalke 04,35%,24%,42%,Bundesliga
+14,RasenBallsport Leipzig,35%,27%,38%,Bundesliga
+15,Fortuna Duesseldorf,34%,24%,43%,Bundesliga
+16,Hoffenheim,34%,26%,40%,Bundesliga
+17,Bayer Leverkusen,33%,26%,41%,Bundesliga
+18,Werder Bremen,32%,29%,39%,Bundesliga
+1,Osasuna,43%,24%,33%,La Liga
+2,Real Valladolid,42%,23%,36%,La Liga
+3,Real Madrid,41%,24%,36%,La Liga
+4,Mallorca,40%,27%,33%,La Liga
+5,Real Betis,40%,24%,36%,La Liga
+6,Levante,40%,23%,37%,La Liga
+7,Villarreal,40%,25%,35%,La Liga
+8,Deportivo Alaves,39%,22%,40%,La Liga
+9,Getafe,39%,23%,38%,La Liga
+10,Leganes,39%,22%,38%,La Liga
+11,Athletic Bilbao,38%,21%,41%,La Liga
+12,Celta Vigo,37%,26%,37%,La Liga
+13,Atletico Madrid,37%,27%,35%,La Liga
+14,Eibar,37%,24%,39%,La Liga
+15,Sevilla,36%,23%,40%,La Liga
+16,Barcelona,35%,31%,35%,La Liga
+17,Granada,35%,23%,43%,La Liga
+18,Real Sociedad,34%,27%,39%,La Liga
+19,Valencia,33%,27%,41%,La Liga
+20,Espanyol,33%,29%,39%,La Liga
