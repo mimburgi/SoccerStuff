@@ -1,3 +1,31 @@
+plot_squad_cluster=function(squad, squaddata, plotdata, numplayers=NULL,title=""){
+  library(RColorBrewer)
+  library(ggplot2)
+  squaddf<-squaddata
+  plotdf<-plotdata
+  
+  if(is.null(numplayers)){
+    squadplayers<-which(squaddf$Squad==squad)
+  }else{
+    squadtrim<-squaddf[squaddf$Squad==squad,] %>% arrange(desc(Min))
+    squadplayernames<-squadtrim[1:numplayers,c('Player')]
+    squadplayers<-which(squaddf$Player %in% squadplayernames)
+  }
+  
+  plotdf[[squad]]<-'N'
+  plotdf[[squad]][squadplayers]<-'Y'
+  plotdf<-dplyr::arrange(plotdf, !!squad)
+  
+  palette<- c('grey', 'red')
+  ggplot(plotdf, aes_string(x="V1", y="V2", color=squad)) +
+    geom_point(size=1) +
+    scale_color_manual(values = palette) +
+    xlab("") + ylab("") +
+    ggtitle("title")
+}
+
+
+
 plot_radars=function(clusters, df){
   require(fmsb)
   require(scales)
